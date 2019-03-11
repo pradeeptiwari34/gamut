@@ -1,1 +1,3 @@
 Hello this is a sample statement being added to the project
+Another sample statement to practice the commit withing staging explicitly
+
